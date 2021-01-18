@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+html{
+    font-family: '나눔 고딕', 'NanumGothic', '돋움', 'Dotum', sans-serif;
+}
+
+header{
+    background-color:#000;
+    margin: 0 ;
+    width: 100%;
+    height: 120px;
+}
+
+.포트폴리오{
+    margin:0 auto;
+    padding: 40px;
+}
+
+h1{
+    margin: 0 auto;
+    font-size: 40px;
+    color:#fff;
+
+}
+
+.All_box{
+
+    width:1080px;
+    margin:0 auto;
+}
